@@ -11,3 +11,5 @@ cp -a --> ???
 gzip/bzip --> decode/encode bytes
 
 read from stdin --> for line in sys.stdin:
+
+ps (print current processes) --> psutil
