@@ -6,3 +6,6 @@ df (disk free command) --> https://docs.python.org/3/library/shutil.html#shutil.
 
 Sometimes there is no lib: subprocess or https://github.com/guettli/subx/
 
+cp -a --> ???
+
+gzip/bzip --> decode/encode bytes
