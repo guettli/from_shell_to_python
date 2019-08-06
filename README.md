@@ -9,3 +9,5 @@ Sometimes there is no lib: subprocess or https://github.com/guettli/subx/
 cp -a --> ???
 
 gzip/bzip --> decode/encode bytes
+
+read from stdin --> for line in sys.stdin:
